@@ -1,0 +1,20 @@
+{
+  "name": "Data-Structures-and-Algorithms",
+  "displayName": "EasyDSA",
+  "description": "Contains the most prominent Advanced Data Structures and Algorithms",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "c++",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
