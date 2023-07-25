@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.80.0"
   },
+  "icon": "./DSAlgoIcon.png",
+  "repository": {
+    "type": "Git",
+    "url": "https://github.com/sstej88/EasyDSA"
+  },
   "categories": [
     "Snippets"
   ],

@@ -1,65 +1,41 @@
-# Data-Structures-and-Algorithms README
+<!-- @format -->
 
-This is the README for your extension "Data-Structures-and-Algorithms". After writing up a brief description, we recommend including the following sections.
+# EasyDSA
 
-## Features
+## Description
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+The C++ Data Structures and Algorithms Extension for Visual Studio Code is a powerful tool designed to enhance your C++ development experience. This extension provides quick access to a collection of 5 advanced data structures and 42 algorithms, enabling you to efficiently solve complex programming problems and build robust applications.
 
-For example if there is an image subfolder under your extension project workspace:
+## Installation
 
-\!\[feature X\]\(images/feature-x.png\)
+1. Open Visual Studio Code
+2. Go to the Extensions view (Ctrl+Shift+X or Cmd+Shift+X on Mac)
+3. Search for "EasyDSA"
+4. Click Install
+5. Restart Visual Studio Code (if required)
+6. Create C++ File
+7. Type easydsa on C++ file to get your code ready
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+## Usage
 
-## Requirements
+Explain how users can use your extension to access the loaded data structures and algorithms. You can include any relevant screenshots or code snippets here.
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+## Configuration
 
-## Extension Settings
+If your extension requires any configuration settings or options, explain how users can customize it to suit their needs.
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+## Supported Languages and Platforms
 
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
+Mention the version(s) of C++ supported by your extension and any specific platforms it works on.
 
 ## Known Issues
 
-Calling out known issues can help limit users opening duplicate issues against your extension.
+List any known issues or limitations with your extension, along with any workarounds if applicable.
 
-## Release Notes
+## Contributing
 
-Users appreciate release notes as you update your extension.
+Explain how others can contribute to your project. Include guidelines for bug reporting, feature requests, and code contributions.
 
-### 1.0.0
+## License
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+Specify the license under which your extension is released. For example, you can use the MIT License:
